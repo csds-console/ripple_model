@@ -1,3 +1,5 @@
+9
+
 from transformers import ViTForImageClassification, ViTImageProcessor, TrainingArguments, Trainer
 from datasets import load_dataset
 import torch
