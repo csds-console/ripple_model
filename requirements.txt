@@ -5,3 +5,6 @@ torch
 numpy
 flask
 flask-cors
+PIL
+logging
+traceback
