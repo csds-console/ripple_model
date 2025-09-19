@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:937a9376b0fbe362278da22f3b6e5008697fa7c00740c8c0377ca3ae8b4307ef
-size 374
+{
+  "do_convert_rgb": null,
+  "do_normalize": true,
+  "do_rescale": true,
+  "do_resize": true,
+  "image_mean": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "image_processor_type": "ViTImageProcessor",
+  "image_std": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "resample": 2,
+  "rescale_factor": 0.00392156862745098,
+  "size": {
+    "height": 224,
+    "width": 224
+  }
+}
