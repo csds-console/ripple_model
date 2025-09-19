@@ -1,10 +1,6 @@
-transformers
-datasets
-scikit-learn
-torch
-numpy
-flask
-flask-cors
-PIL
-logging
-traceback
+flask==3.0.3
+flask-cors==4.0.0
+torch==2.3.1
+torchvision==0.18.1
+transformers==4.44.2
+pillow==10.4.0
