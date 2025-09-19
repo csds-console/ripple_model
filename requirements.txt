@@ -1,7 +1,10 @@
+transformers
+datasets
+scikit-learn
+torch
+numpy
 flask
 flask-cors
-torch==2.5.1
-torchvision==0.20.1
-transformers
-pillow
-gunicorn
+PIL
+logging
+traceback
